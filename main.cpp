@@ -52,7 +52,7 @@ int main() {
       
         if (toupper(origen[0]) == 'X') break;
 
-        // Verificar si quiere ver reglas
+   
         if (toupper(origen[0]) == 'R') {
             mostrarReglas();
             continue;  
